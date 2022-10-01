@@ -7,5 +7,5 @@
 2.[第三周](https://github.com/chang6616/python/blob/main/0922-1.ipynb)<br>
 3.[第四周]
 # 作業連結區<br>
--[作業1]
+- [作業1](https://github.com/chang6616/python/blob/main/homework1/hw1-0922.ipynb)
 # 專題連結區<br>
