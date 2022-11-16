@@ -12,5 +12,6 @@
 - [作業3](https://github.com/chang6616/python/blob/main/homework3/1103.ipynb):<br>
   [json](https://github.com/chang6616/python/blob/main/homework3/hw3.json)<br>
   [csv](https://github.com/chang6616/python/blob/main/hw3.csv)<br>
-- [作業4](https://github.com/chang6616/python/blob/main/homework4/hw4-1116.ipynb)<br>
+- [作業4](https://github.com/chang6616/python/blob/main/homework4/hw4-1116.ipynb):<br>
+  [medium文章](https://medium.com/@changchalice/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98-52208f8db2b8)<br>
 # 專題連結區<br>
